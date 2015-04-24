@@ -1,2 +1,2 @@
 #!/bin/bash
-echo"jjokok"
+echo"jjokokffcfdf"
